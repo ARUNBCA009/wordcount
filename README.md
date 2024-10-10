@@ -1,4 +1,4 @@
-wordCount
+#wordCount
 Description:
 This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
 
